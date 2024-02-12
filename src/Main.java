@@ -1,6 +1,7 @@
 // Main.java
 // this lab creates a School object that holds ten students
 // and prints their values
+// Evin Lodder 2/11/2024
 import java.text.DecimalFormat;
 public class Main
 {
